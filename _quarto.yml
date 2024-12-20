@@ -1,0 +1,28 @@
+project:
+  type: website
+
+website:
+  title: "Mikkel H. Vembye"
+  description: "Systematic Reviewing and Meta-Analysis"
+  open-graph: true
+  page-navigation: true
+  back-to-top-navigation: true
+  navbar:
+    left:
+      - text: CV
+        href: /files/Vembye-CV.pdf
+      - text: Publications
+        href: publications/index.qmd
+      - contact.qmd
+        
+format:
+  html:
+    theme: sandstone
+    css: styles.css
+    toc: true
+    linkcolor: "#3f51b5"
+    fontcolor: "#313131"
+    smooth-scroll: true
+
+editor: visual
+

@@ -1,0 +1,21 @@
+---
+title: "Contact"
+---
+
+{{<fa envelope>}} [mihv@vive.dk](mailto:mihv@vive.dk)
+
+{{<fa phone>}} (+45) 31319209
+
+{{<fa location-dot>}} Søren Frichs Vej 36 G, 8230 Åbyhøj, Denmark
+
+```{r}
+#| echo: false
+library(leaflet)
+leaflet() |>
+  addTiles() |>  # Add default OpenStreetMap map tiles
+  addMarkers(
+    lat=56.153582388397766, 
+    lng=10.177578728914018
+  )
+```
+

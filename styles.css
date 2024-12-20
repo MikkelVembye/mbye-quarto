@@ -1,0 +1,9 @@
+/* css styles */
+
+.navbar-nav .nav-link {
+    font-size: 14px; /* Set your desired font size */
+}
+
+body {
+    font-size: 14px; /* Adjust this value to change the font size */
+}

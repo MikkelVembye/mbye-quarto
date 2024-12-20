@@ -1,0 +1,55 @@
+---
+title: "Mikkel H. Vembye"
+image: avatar.jpg
+page-layout: full
+about:
+  id: about
+  template: trestles
+  image-shape: rounded
+  links:
+    - icon: envelope
+      href: 'mailto:mihv@vive.dk'
+    - icon: github
+      href: https://github.com/MikkelVembye
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?hl=da&user=MpU5wwMAAAAJ
+    - text: "{{< ai osf >}}"
+      href: https://osf.io/36qds
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0001-9071-0724 
+    - text: "{{< fa brands bluesky >}}"
+      href: https://bsky.app/profile/mbye.bsky.social
+---
+:::::{#about}
+
+I am a meta-analyst working in the Department of Quantitative Methods at [VIVE](https://www.vive.dk/en/) - The Danish Center for Social Science Research. 
+
+::::{.grid}
+
+::: {.g-col-6}
+
+## Education
+
+- PhD in Education | 2022 <br> [Aarhus University]{style='color:gray;'}
+
+- MA in Education | 2016 <br> [Aarhus University]{style='color:gray;'}
+
+- BA in Sociology | 2014 <br> [Aalborg University]{style='color:gray;'}
+
+:::
+
+::: {.g-col-6}
+
+## Interests
+
+- Meta-analysis
+- Systematic reviewing
+- Causal inference
+- Robust statistical methods
+- Education statistics
+
+:::
+
+::::
+
+:::::
