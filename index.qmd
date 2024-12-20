@@ -1,5 +1,15 @@
 ---
 title: "Mikkel H. Vembye"
+format: 
+  html:
+    toc: false
+    includes:
+     in-header: |
+        <style>
+           .publications.listing-subtitle {
+            font-size: 6px; 
+          }
+        </style>
 image: avatar.jpg
 page-layout: full
 about:
@@ -19,37 +29,55 @@ about:
       href: https://orcid.org/0000-0001-9071-0724 
     - text: "{{< fa brands bluesky >}}"
       href: https://bsky.app/profile/mbye.bsky.social
+      
+listing:
+  - id: recent-publications
+    contents: publications
+    sort: "date desc"
+    type: default
+    categories: false
+    sort-ui: false
+    filter-ui: FALSE
+    max-items: 2
+    exclude: 
+      title: "Publications and Pre-Prints"
+    fields: [author, title, date]
+  
 ---
-:::::{#about}
 
-I am a meta-analyst working in the Department of Quantitative Methods at [VIVE](https://www.vive.dk/en/) - The Danish Center for Social Science Research. 
+:::::: {#about}
+I am a meta-analyst working in the Department of Quantitative Methods at [VIVE](https://www.vive.dk/en/) - The Danish Center for Social Science Research. My main interest revolves around meta-analysis and systematic reviewing with special focus on state-of-the-art methods, etc...
 
-::::{.grid}
+::::: grid
 
-::: {.g-col-6}
+::: g-col-6
 
 ## Education
 
-- PhD in Education | 2022 <br> [Aarhus University]{style='color:gray;'}
+-   PhD in Education \| 2022 <br> [Aarhus University]{style="color:gray;"}
 
-- MA in Education | 2016 <br> [Aarhus University]{style='color:gray;'}
+-   MA in Education \| 2016 <br> [Aarhus University]{style="color:gray;"}
 
-- BA in Sociology | 2014 <br> [Aalborg University]{style='color:gray;'}
-
+-   BA in Sociology \| 2014 <br> [Aalborg University]{style="color:gray;"}
 :::
 
-::: {.g-col-6}
+::: g-col-6
 
 ## Interests
 
-- Meta-analysis
-- Systematic reviewing
-- Causal inference
-- Robust statistical methods
-- Education statistics
+-   Meta-analysis
+-   Systematic reviewing 
+-   AI for study screening 
 
 :::
 
-::::
-
 :::::
+
+::::::
+
+# Recent publications 
+
+:::::{#recent-publications}
+:::::
+
+#### [More publications...](/publications/)

@@ -1,8 +1,10 @@
 project:
   type: website
-
+  
 website:
   title: "Mikkel H. Vembye"
+  site-url: https://mbye.com
+  repo-url: https://github.com/MikkelVembye/mbye-quarto
   description: "Systematic Reviewing and Meta-Analysis"
   open-graph: true
   page-navigation: true
@@ -13,7 +15,13 @@ website:
         href: /files/Vembye-CV.pdf
       - text: Publications
         href: publications/index.qmd
+      - href: software/index.qmd
       - contact.qmd
+      
+  page-footer: 
+    right: |
+      Made with {{< fa brands r-project >}} and [Quarto](https://quarto.org/) <br>
+      [{{< fa brands github >}} Source](https://github.com/MikkelVembye/mbye-quarto)
         
 format:
   html:
@@ -23,6 +31,3 @@ format:
     linkcolor: "#3f51b5"
     fontcolor: "#313131"
     smooth-scroll: true
-
-editor: visual
-

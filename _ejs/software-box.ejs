@@ -1,0 +1,40 @@
+```{=html}
+<div class="software publications">
+  <% for (const item of items) { %>
+  <div class="package">
+    <div class="quarto-post image-left">
+      <% if (item.image) { %>
+        <div class="thumbnail">
+          <a href="<%= item.path %>"><p><img src="<%= item.image %>" class="thumbnail-image"></p></a>
+        </div>
+      <% } %>
+    <div class="body">
+      <div class="title">
+          <a href="<%= item.path %>"><%= item.title %></a>
+      </div>
+      <% if (item.subtitle) { %>
+      <div class="subtitle">
+          <%= item.subtitle %><br> 
+      </div>
+      <% } %>
+      <% if (item.author) { %>
+      <p class="authors"><%= item.author %></p>
+      <% } %>
+      <% if (item.links) { %>
+        <ul class="publication-links">
+          <% for (const link of item.links) { %>
+            <li class="publication-link btn btn-outline-primary">
+              <a href="<%= link.url %>">
+                <% if (link.icon) { %><i class="bi bi-<%= link.icon %>" aria-label="<%= link.icon %>"></i><% } %>
+                <%= link.text %>
+              </a>
+            </li>
+          <% } %>
+        </ul>
+      <% } %>
+    </div>
+  </div>
+  </div>
+  <% } %>
+</div>
+```

@@ -1,0 +1,30 @@
+---
+title: AIscreenR
+ltitle: aiscreenr
+subtitle: AI screening tools in R for systematic reviewing
+image: AIscreenR_hex.png
+author:
+- name:
+    given: Mikkel H.
+    family: Vembye
+categories:
+- systematic reviewing
+- title and abstract screening
+- AI
+links:
+- text: CRAN
+  url: https://cran.r-project.org/package=AIscreenR
+- text: Website
+  url: https://mikkelvembye.github.io/AIscreenR/ 
+- icon: github
+  url: https://github.com/MikkelVembye/AIscreenR/
+citation:
+  type: software
+  doi: 10.32614/CRAN.package.AIscreenR
+  medium: R package
+  note: R package
+  version: 0.1.1
+  issued: '2024-12-20T00:00:00Z'
+---
+
+An R package to conducting title and abstract screening with GPT API models. 

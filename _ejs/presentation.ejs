@@ -1,0 +1,29 @@
+```{=html}
+<div class="talks">
+  <ul class="list">
+  <% for (const talk of items) { %>
+  <li class="talk-entry" <%= metadataAttrs(talk) %>>
+    <div class="metadata">          
+      <p class="listing-date"><%= talk.date %></p>
+    </div>
+    <div class="body">
+      <p class="listing-title"><a href="<%= talk.path %>"><%= talk.title %></a></p>
+      <p class="listing-event_short"><%= talk.event_short %> | <%= talk.location %></p>
+      <% if (talk.links) { %>
+        <ul class="talk-links">
+          <% for (const link of talk.links) { %>
+            <li class="talk-link btn btn-outline-primary">
+              <a href="<%= link.url %>">
+                <i class="bi bi-<%= link.icon %>" aria-label="<%= link.icon %>"></i>
+                <%= link.text %>
+              </a>
+            </li>
+          <% } %>
+        </ul>
+      <% } %>
+    </div>
+  </li>
+  <% } %>
+  </ul>
+</div>
+```

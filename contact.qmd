@@ -2,7 +2,7 @@
 title: "Contact"
 ---
 
-{{<fa envelope>}} [mihv@vive.dk](mailto:mihv@vive.dk)
+{{<fa envelope>}} [mihv\@vive.dk](mailto:mihv@vive.dk)
 
 {{<fa phone>}} (+45) 31319209
 
@@ -18,4 +18,3 @@ leaflet() |>
     lng=10.177578728914018
   )
 ```
-

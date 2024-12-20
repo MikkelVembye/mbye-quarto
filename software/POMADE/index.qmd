@@ -1,0 +1,35 @@
+---
+title: POMADE
+ltitle: pomade
+subtitle: Power for Meta-Analysis of Dependent Effects
+image: featured.png
+author:
+- name:
+    given: Mikkel H.
+    family: Vembye
+- name:
+    given: James E.
+    family: Pustejovsky
+categories:
+- meta-analysis
+- dependent effect sizes
+- robust variance estimation
+- Rstats
+- power
+links:
+- text: CRAN
+  url: https://cran.r-project.org/package=POMADE
+- text: Website
+  url: https://mikkelvembye.github.io/POMADE/
+- icon: github
+  url: https://github.com/MikkelVembye/POMADE/
+citation:
+  type: software
+  doi: 10.32614/CRAN.package.POMADE
+  medium: R package
+  note: R package
+  version: 0.2.0
+  issued: '2024-02-13T00:00:00Z'
+---
+
+An R package for computing power levels, minimum detectable effect sizes, and minimum required sample sizes for the test of the overall average effect size in meta-analysis of dependent effect sizes. The package also includes functions for creating plots of power analysis results.
