@@ -1,0 +1,30 @@
+---
+title: 'GPT API Models Can Function as Highly Reliable Second Screeners of Titles and Abstracts in Systematic Reviews: A Proof of Concept and Common Guidelines'
+author:
+- name:
+    given: Mikkel H.
+    family: Vembye
+date: 2024-07-09T00:00:00
+categories:
+- title and abstract screening
+- systematic reviewing
+- AI
+- GPT models
+links:
+- icon: unlock-fill
+  text: Pre-Print
+  url: https://doi.org/10.31219/osf.io/yrhzm
+- icon: code-slash
+  text: Code
+  url: https://osf.io/apdfw/
+- icon: github
+  text: Supplementary material
+  url: https://github.com/MikkelVembye/screen_benchmarks
+preprint: true
+citation:
+  type: article
+  url: https://doi.org/10.31219/osf.io/yrhzm
+  doi: 10.31219/osf.io/yrhzm
+---
+
+Independent human double screening of titles and abstracts is a critical step to ensure the quality of  systematic reviews and meta-analyses herein. However, double screening is a resource-demanding  procedure  that  decelerates  the  review  process. Toalleviate  this  issue,  we  evaluated  the  use  of  OpenAI’s GPT API models as an alternative to human second screeners of titles and abstracts. We  did so by developing a new benchmark scheme for interpreting the performances of automated screening tools against common human screening performances in high-quality systematic reviews and conducting three large-scale experiments on three psychological systematic reviews with different levels of complexity. Across all experiments, we show that the GPT API models can perform on par with and in some cases even better than typical human screening performance in terms of detecting relevant studies while showing high exclusion performance, as well. Hereto, we introduce the use of multi-prompt screening, that is making one concise prompt per inclusion/exclusion criteria in a review, and show that it can be a valuable tool to use for screening in highly complex review settings. To support future reviews, we develop a reproducible workflow and tentative guidelines for when reviewers can or cannot use GPT API models as independent second screeners of titles and abstracts. Moreover, we present the R package AIscreenR to standardize and scale up the suggested application. Our aim is ultimately to make GPT API models acceptable as independent  second screeners within high-quality systematic reviews, such as the ones published in  Psychological Bulletin.  

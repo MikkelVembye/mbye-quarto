@@ -46,7 +46,7 @@ listing:
 ---
 
 :::::: {#about}
-I am a meta-analyst working in the Department of Quantitative Methods at [VIVE](https://www.vive.dk/en/) - The Danish Center for Social Science Research. My main interest revolves around meta-analysis and systematic reviewing with special focus on state-of-the-art methods, etc...
+I am a researcher working in the Department of Quantitative Methods at [VIVE](https://www.vive.dk/en/) - The Danish Center for Social Science Research. My main interest revolves around meta-analysis and systematic reviewing with special focus on state-of-the-art methods, etc...
 
 ::::: grid
 
