@@ -1,6 +1,6 @@
 ---
-title: Power approximations for overall average effects in meta-analysis of dependent
-  effect sizes
+title: "Power approximations for overall average effects in meta-analysis of dependent
+  effect sizes"
 author:
 - name:
     given: Mikkel H.
@@ -17,14 +17,12 @@ categories:
 - meta-analysis
 - dependent effect sizes
 - robust variance estimation
-image-alt: Power difference between approximated and true (simulated) power versus
-  approximated power for the C(H)E working models, across different methods of sampling
-  study characteristics.
 links:
-- text: Journal
+- icon: newspaper
+  text: Journal
   url: https://doi.org/10.3102/10769986221127379
-  icon: newspaper
-- text: Supplementary materials
+- icon: plus
+  text: Supplementary materials
   url: https://osf.io/q84dv/
 - text: Correction
   url: https://doi.org/10.3102/10769986231207878

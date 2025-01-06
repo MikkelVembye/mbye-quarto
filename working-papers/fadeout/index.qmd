@@ -1,0 +1,23 @@
+---
+title: 'On the mechanisms of fadeout: Meta-analytic evidence from school interventions'
+author:
+- name:
+    given: Jens
+    family: Dietrichson
+- name:
+    given: Julian
+    family: Roopali
+- name:
+    given: Trine
+    family: Filges
+- name:
+    given: Mikkel H.
+    family: Vembye
+date: 2024-02-03T00:00:00
+categories:
+- fadeout mechanisms
+- school interventions
+- meta-analysis
+---
+
+The effects of preschool and school interventions typically fade out over time. Assessing the consequences of fade-out for the returns to interventions and for theories of skill development require knowledge about the mechanisms by which effects fade out. We surveyed and categorized potential fade-out mechanisms and derived testable hypotheses of the mechanisms on the distribution of intervention effect sizes. We then tested the hypotheses using meta-analysis and data from 42 studies and 677 effect sizes based on standardized tests in mathematics and reading. We found support for and no robust evidence against mechanisms that explain fade-out by control group catch-up due to the treatment group being unable to build on the skills learned in the intervention, and negative side effects on parental and school investments for the treatment group. We found less support for, but also no robust evidence against, explanations based on regression to the mean and positive side effects on parental and school investments for the control group. Mechanisms explaining fade-out by treatment group skills decaying, by changes to the sample composition, by increasing test variance over time, and by differences in the vertical scaling of tests were not supported by at least one hypothesis test. Our results indicated that some, but far from all, fade-out is a statistical artifact and that treatment group skills growing more slowly than the control group’s skills after the end-of-intervention is an important factor. We discuss how future research may separate between skill-based mechanisms. 

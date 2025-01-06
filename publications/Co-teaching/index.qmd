@@ -1,0 +1,45 @@
+---
+title: "The effects of co-teaching and related collaborative models of instruction on student achievement: A systematic review and meta-analysis"
+author:
+- name:
+    given: Mikkel H.
+    family: Vembye
+- name:
+    given: Felix
+    family: Weiss
+- name:
+    given: Bethany H. 
+    family: Bhat
+date: 2024-06-01T00:00:00
+categories:
+- Co-Teaching
+- Collaborative models of instruction
+- student achievement
+- meta-analysis
+links:
+- icon: newspaper
+  text: Journal
+  url: https://doi.org/10.3102/00346543231186588
+- icon: plus
+  text: Supplementary materials
+  url: https://osf.io/wkbxq
+- icon: unlock-fill
+  text: Pre-Print
+  url: https://osf.io/preprints/metaarxiv/mq5v7
+- icon: code-slash
+  text: Code
+  url: https://osf.io/fby7w/
+- icon: paperclip
+  text: Protocol
+  url: https://osf.io/ur2bs
+citation:
+  type: article-journal
+  container-title: Review of Educational Research
+  url: https://doi.org/10.3102/00346543231186588
+  doi: 10.3102/00346543231186588
+  volume: 94
+  issue: 3
+  page: 376-422
+---
+
+Co-teaching and related collaborative models of instruction are widely used in primary and secondary schools in many school systems. This systematic review and meta-analysis investigated the effects of such models on students’ academic achievement and how these effects are moderated by factors of theoretical and practical relevance. Although previous research and reviews have asserted that the evidence base is scarce, we found 128 treatment and control group studies from 1984 to 2020. We excluded 52 studies due to critical risk of bias via Cochrane’s risk of bias assessment tools and conducted a meta-analysis of 76 studies. This yielded 280 short-term effect sizes, of which 82% were pretest-adjusted. We found a moderate, positive, and statistically significant mean effect of $\bar{g}$ = 0.11, 95% confidence interval [0.035, 0.184] of collaborative instruction compared to single-taught controls, using the correlated-hierarchical effects (CHE-RVE) model. From moderator analyses, we found that collaborative instruction yields effects of mostly the same size, whether the interventions involved trained teachers or assistants with no teaching qualifications. This implies a potential for the expansion of such interventions at lower costs than otherwise expected. Moreover, factors that are highlighted in the co-teaching literature as preconditions for the effectiveness of collaborative instruction did not explain variations in effect sizes. Finally, we found no clear evidence for publication bias or small study effects. Notably, a large number of the studies that we drew upon were nonrandomized studies; and therefore, more rigorous experimental research is needed, especially on relevant co-teaching interventions.

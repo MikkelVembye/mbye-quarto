@@ -1,0 +1,16 @@
+---
+title: "Presentations"
+subtitle: "Conference presentations, posters, and invited talks"
+page-layout: article
+author: ""
+listing:
+    sort: 
+      - "date desc"
+    type: custom
+    template: ../_ejs/presentation.ejs
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 1000
+    page-size: 100
+---

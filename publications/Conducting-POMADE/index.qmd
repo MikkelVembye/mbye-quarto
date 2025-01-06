@@ -1,5 +1,5 @@
 ---
-title: 'Conducting power analysis for meta-analysis of dependent effect sizes: Common guidelines and an introduction to the POMADE R package'
+title: "Conducting power analysis for meta-analysis of dependent effect sizes: Common guidelines and an introduction to the POMADE R package"
 author:
 - name:
     given: Mikkel H.
@@ -18,10 +18,11 @@ categories:
 - dependent effect sizes
 - robust variance estimation
 links:
-- text: Journal
+- icon: newspaper
+  text: Journal
   url: https://doi.org/10.1002/jrsm.1752
-  icon: newspaper
-- text: Supplementary materials
+- icon: plus
+  text: Supplementary materials
   url: https://osf.io/vpnmb/
 - icon: unlock-fill
   text: Pre-Print

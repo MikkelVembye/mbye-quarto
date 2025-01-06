@@ -1,0 +1,36 @@
+---
+title: "PROTOCOL: Group‐based community interventions to support the social reintegration of marginalised adults with mental illness."
+author:
+- name:
+    given: Nina T.
+    family: Dalgaard
+- name:
+    given: Maya C. F. 
+    family: Jensen
+- name:
+    given: Elizabeth
+    family: Bengtsen
+- name:
+    given: Karl F. 
+    family: Krassel
+- name:
+    given: Mikkel H.
+    family: Vembye
+date: 2022-07-14T00:00:00
+categories:
+- group-based intervention
+- marginalised adults
+- meta-analysis
+links:
+- text: Protocol
+  url: https://doi.org/10.1002/cl2.1254
+  icon: paperclip
+citation:
+  type: article-journal
+  container-title: Campbell Systematic Review
+  url: https://doi.org/10.1002/cl2.1254
+  doi: 10.1002/cl2.1254
+  page: 1-23
+---
+
+The main objective is to explore the general efficacy of group-based community interventions aimed at supporting marginalised adults with mental illness and related problems on outcomes such as problem behaviour, subjective well-being, homelessness, poverty and employment. Furthermore, the objective is to explore the potential advantages/disadvantages of using a group-based versus an individual intervention when targeting specific problems or when using specific types of interventions.

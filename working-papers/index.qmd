@@ -1,0 +1,25 @@
+---
+title: "Working Papers"
+page-layout: article
+listing:
+  - id: working-papers
+    sort: 
+      - "date desc"
+    type: custom
+    template: ../_ejs/publication.ejs
+    categories: false
+    sort-ui: false
+    filter-ui: false
+    max-items: 1000
+    page-size: 100
+    fields: [author, title, date, citation]
+    feed: 
+      title: working papers
+---
+
+
+:::::{#working-papers}
+:::::
+
+
+#### [More publications...](/publications/)

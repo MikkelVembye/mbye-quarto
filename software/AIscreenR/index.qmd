@@ -17,6 +17,7 @@ links:
 - text: Website
   url: https://mikkelvembye.github.io/AIscreenR/ 
 - icon: github
+  text: Source
   url: https://github.com/MikkelVembye/AIscreenR/
 citation:
   type: software

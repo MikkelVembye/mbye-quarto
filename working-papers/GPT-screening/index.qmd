@@ -1,9 +1,18 @@
 ---
-title: 'GPT API Models Can Function as Highly Reliable Second Screeners of Titles and Abstracts in Systematic Reviews: A Proof of Concept and Common Guidelines'
+title: 'GPT API models can function as highly reliable second screeners of titles and abstracts in systematic reviews: A proof of concept and common guidelines'
 author:
 - name:
     given: Mikkel H.
     family: Vembye
+- name:
+    given: Julian
+    family: Christensen
+- name:
+    given: Anja B.
+    family: Mølgaard
+- name:
+    given: Frederikke L. W.
+    family: Schytt
 date: 2024-07-09T00:00:00
 categories:
 - title and abstract screening
@@ -20,6 +29,9 @@ links:
 - icon: github
   text: Supplementary material
   url: https://github.com/MikkelVembye/screen_benchmarks
+- icon: box2
+  text: R package
+  url: https://cran.r-project.org/web/packages/AIscreenR/index.html  
 preprint: true
 citation:
   type: article
