@@ -15,7 +15,7 @@ page-layout: full
 about:
   id: about
   template: trestles
-  image-shape: rounded
+  image-shape: round
   links:
     - icon: envelope
       href: 'mailto:mihv@vive.dk'
