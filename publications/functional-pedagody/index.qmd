@@ -1,0 +1,29 @@
+---
+title: "Funktionalistisk pædagogik? Biesta og Arendt om ontologi og evidens"
+author:
+- name:
+    given: Mikkel H.
+    family: Vembye
+- name:
+    given: Morten T. 
+    family: Korsgaard
+date: 2018-08-29T00:00:00
+categories:
+- pedagody
+- ontology
+- evidence
+links:
+- icon: newspaper
+  text: Journal
+  url: https://www.idunn.no/doi/10.18261/issn.1891-5949-2018-03-03
+citation:
+  type: article-journal
+  container-title: Nordic Studies in Education
+  url: https://www.idunn.no/doi/10.18261/issn.1891-5949-2018-03-03
+  doi: 10.18261/issn.1891-5949-2018-03-03
+  volume: 38
+  issue: 3
+  page: 215-231
+---
+
+This paper presents Gert Biesta’s ontological critique of ‘the global evidence movement’, and performs a critique of his use of systems theory as a foundation for his ontological counter-position. We attempt to show how systems theory, as well as the prevailing understanding of evidence based education, are inadequate for describing and conceptualizing educational processes. Through his use of systems theory as a starting point for an educational ontology, Biesta approaches an acceptance of a functionalistic and anti-humanistic position, which we show is incompatible with educational processes, and thus inappropriate as a foundation for an ontology of education. As an alternative, we offer a reading of Hannah Arendt, and present her concepts of natality and plurality as more suitable starting points for a formulation of an ontology of education.

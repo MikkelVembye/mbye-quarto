@@ -1,0 +1,32 @@
+---
+title: "Suspension og eksemplaritet – mod en genoplivning af undervisningsbegrebet"
+author:
+- name:
+    given: Morten T. 
+    family: Korsgaard
+- name:
+    given: Mikkel H.
+    family: Vembye
+- name:
+    given: Stig S.
+    family: Mortensen
+date: 2019-12-20T00:00:00
+categories:
+- teaching
+- didactic
+- pedagogy
+links:
+- icon: newspaper
+  text: Journal
+  url:  https://doi.org/10.7146/lup.v4i1.117984 
+citation:
+  type: article-journal
+  container-title: Studier i Læreruddannelse og – Profession
+  url: https://doi.org/10.7146/lup.v4i1.117984 
+  doi: 10.7146/lup.v4i1.117984 
+  volume: 4
+  issue: 1
+  page: 144-162
+---
+
+Through suspension of the noise of everyday (productive) life and through putting the exemplary on the table, the teacher  establishes  a  possibility  for  att ention and interest. This definition of the core of schooling has been gaining  ground  in  the  philosophy of education in recent years, and here, for the first time, the reading of exemplarity in connection with suspension is presented in a Danish context. 

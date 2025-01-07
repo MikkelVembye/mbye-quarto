@@ -1,0 +1,37 @@
+---
+title: "Kausalitet og evidens i den danske, pædagogiske evidensbevægelse og et muligt bud på en forbedring"
+author:
+- name:
+    given: Mikkel H.
+    family: Vembye
+- name:
+    given: Hans S.
+    family: Jensen
+date: 2022-08-15T00:00:00
+categories:
+- philosophy of causation
+- efficacy
+- evidence
+- pegadogy
+- education
+links:
+- icon: book
+  text: Book chapter
+  url: https://unipress.dk/udgivelser/k/kausalitet-og-effektfuldhed/
+citation: 
+  type: chapter
+  container-title: Kausalitet og effektfuldhed i pædagogisk forskning og praksis
+  editor: 
+  - name: 
+      given: Jacob H.
+      family: Christensen
+  - name:
+      given: Lars
+      family: Qvortrup
+  publisher: Aarhus Universitetsforlag
+  publisher-place: Aarhus
+  chapter-number: 2
+  page: 59-140
+---
+
+Many critics accuse the evidence movement of putting human and educational be-havior on too simple (mathematical) causal formulas. We aim to pursue this contro-versy and not the least inject nuances into it. Premised on philosophy of causation, we explore six systematic reviews including narrative syntheses published by the Danish Clearinghouse of Educational Research (DCU) from 2008 to 2015. We find that it is necessary to understand the concept of regularities as well as the concept of causality in a much broader way if we adequately want to understand the concept of causality inferred in the Danish educational movement of evidence-based research. However, we further map that 1115 out of 1418 causal statements regarding what works deduced from the six key systematic reviews can be classified as and connected to the regularity theories of causality. Moreover, we illuminate how DCU makes a radical break with recent theories of causation because contextual factors surrounding the causes and effects are entirely erased when causality is inferred. Finally, we suggest returning to common meta-analytical techniques to avoid most of the inference issues encountered in narrative syntheses.
