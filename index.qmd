@@ -3,13 +3,6 @@ title: "Mikkel H. Vembye"
 format: 
   html:
     toc: false
-    includes:
-     in-header: |
-        <style>
-           .publications.listing-subtitle {
-            font-size: 6px; 
-          }
-        </style>
 image: avatar.jpg
 page-layout: full
 about:
@@ -38,7 +31,7 @@ listing:
     categories: false
     sort-ui: false
     filter-ui: FALSE
-    max-items: 5
+    max-items: 3
     exclude: 
       title: "Publications and Pre-Prints"
     fields: [author, title, date]
