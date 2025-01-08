@@ -26,9 +26,6 @@ links:
   url: https://osf.io/q84dv/
 - text: Correction
   url: https://doi.org/10.3102/10769986231207878
-- text: R package
-  url: https://mikkelvembye.github.io/POMADE/
-  icon: box2
 - icon: unlock-fill
   text: Pre-Print
   url: https://osf.io/preprints/metaarxiv/6tp9y/

@@ -30,6 +30,9 @@ links:
 - icon: code-slash
   text: Code
   url: https://osf.io/yurzh
+- icon: box2
+  text: R package
+  url: https://mikkelvembye.github.io/POMADE/
 citation: 
   type: article-journal
   container-title: Research Synthesis Methods
