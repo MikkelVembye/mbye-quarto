@@ -33,6 +33,9 @@ links:
 - icon: box2
   text: R package
   url: https://mikkelvembye.github.io/POMADE/
+- icon: file-pdf-fill
+  text: PDF
+  url: /files/RSM-2024-Vembye.pdf
 citation: 
   type: article-journal
   container-title: Research Synthesis Methods
