@@ -1,0 +1,15 @@
+---
+title: 'Using GPT API models for title and abstract screening in high-quality reviews'
+author: 
+ - Mikkel H. Vembye
+date: 2024-09-09
+event: INSIA Membership Meeting
+event_short: INSIA Meeting
+location: Prague
+links:
+- icon: file-easel
+  text: Slides
+  url: /files/INSIA-presentation-2024-Vembye.pdf
+---
+
+

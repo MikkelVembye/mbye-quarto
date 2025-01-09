@@ -33,7 +33,8 @@ listing:
     filter-ui: FALSE
     max-items: 3
     exclude: 
-      title: "Publications and Pre-Prints"
+      title: "Publications"
+      subtitle: "Conference presentations, posters, and invited talks"
     fields: [author, title, date]
   
 ---

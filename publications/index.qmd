@@ -1,5 +1,6 @@
 ---
-title: "Publications and Pre-Prints"
+title: "Publications"
+subtitle: "Journal articles, reports, book chapters, etc."
 page-layout: article
 listing:
   sort: 
