@@ -1,0 +1,12 @@
+---
+title: 'The Effects of Co-Teaching and Related Collaborative Models of Instruction on Student Achievement: A Systematic
+Review and Meta-Analysis'
+author: 
+ - Mikkel H. Vembye
+date: 2021-11-26
+event: First Meeting on Quantitative Educational Research in Denmark
+event_short: Meeting on Quantitative Educational Research in Denmark
+location: Vejle, DK
+---
+
+

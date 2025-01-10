@@ -1,0 +1,12 @@
+---
+title: 'The Effects of Co-Teaching and Related Collaborative Models of Instruction on Student Achievement: A Systematic
+Review and Meta-Analysis'
+author: 
+ - Mikkel H. Vembye
+date: 2021-12-13
+event: Quant Lab presentation
+event_short: Quant Lab
+location: Online
+---
+
+
