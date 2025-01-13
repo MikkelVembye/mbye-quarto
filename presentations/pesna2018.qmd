@@ -1,0 +1,11 @@
+---
+title: 'Are RCTs the Golden Standard in Education?'
+author: 
+ - Mikkel H. Vembye
+date: 2018-10-28
+event: Philosophy of Education Society of North America Annual Conference
+event_short: PESNA
+location: Chicago, IL
+---
+
+

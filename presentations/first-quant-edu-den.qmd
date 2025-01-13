@@ -6,7 +6,7 @@ author:
 date: 2021-11-26
 event: First Meeting on Quantitative Educational Research in Denmark
 event_short: Meeting on Quantitative Educational Research in Denmark
-location: Vejle, DK
+location: Vejle, Denmark
 ---
 
 

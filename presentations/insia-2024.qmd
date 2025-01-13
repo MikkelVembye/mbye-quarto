@@ -5,7 +5,7 @@ author:
 date: 2024-09-09
 event: INSIA Membership Meeting
 event_short: INSIA Meeting
-location: Prague
+location: Prague, Czech Republic
 links:
 - icon: file-easel
   text: Slides
