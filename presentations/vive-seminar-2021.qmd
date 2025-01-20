@@ -2,7 +2,7 @@
 title: 'The Effects of Co-Teaching and Related Collaborative Models of Instruction on Student Achievement: A Systematic Review and Meta-Analysis'
 author: 
  - Mikkel H. Vembye
-date: 2021-12-13
+date: 2021-12-10
 event: The Danish Center for Social Science Research
 event_short: VIVE seminar
 location: Copenhagen, Denmark

@@ -1,0 +1,11 @@
+---
+title: 'Reflecting on Nancy Cartwright’s Conception of the External Validity of RCTs'
+author: 
+ - Mikkel H. Vembye
+date: 2018-11-16
+event: Spanish Society for Logic, Methodology and Philosophy of Science Conference
+event_short: IX SLMFCE
+location: Madrid, Spain
+---
+
+
