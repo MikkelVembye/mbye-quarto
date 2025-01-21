@@ -13,6 +13,7 @@ website:
     left:
       - text: CV
         href: /files/Vembye-CV.pdf
+      - current-research.qmd
       - text: Working Papers
         href: working-papers/index.qmd
       - text: Publications
