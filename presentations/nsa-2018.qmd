@@ -1,0 +1,12 @@
+---
+title: 'The Impact of Social Background on Academic Achievement: Trends from 2007-2015 in the Nordic Countries'
+author: 
+ - Mikkel H. Vembye
+ - Emil Smith
+date: 2018-08-09
+event: Nordic Sociological Association Conference
+event_short: NSA
+location: Aalborg, Denmark
+---
+
+
