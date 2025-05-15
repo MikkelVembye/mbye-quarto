@@ -40,7 +40,7 @@ listing:
 ---
 
 :::::: {#about}
-I am a researcher working in the Department of Quantitative Methods at [VIVE](https://www.vive.dk/en/) - The Danish Center for Social Science Research. My main interest revolves around meta-analysis and systematic reviewing with a special focus on the implementation of state-of-the-art methods. I conduct systematic reviews and meta-analyses in a wide range of fields, including Education, Psychology, and Economics. 
+I am a researcher working in the Department of Governance and Economics at [VIVE](https://www.vive.dk/en/) - The Danish Center for Social Science Research. My main interest revolves around meta-analysis and systematic reviewing with a special focus on the implementation of state-of-the-art methods. I conduct systematic reviews and meta-analyses in a wide range of fields, including Education, Psychology, and Economics. Beyond this, I also interesting in how to implement AI solution rigorously in systematic reviews.  
 
 ::::: grid
 
@@ -48,7 +48,7 @@ I am a researcher working in the Department of Quantitative Methods at [VIVE](ht
 
 ## Education
 
--   PhD in Education \| 2022 <br> [Aarhus University]{style="color:gray;"}
+-   PhD in Educational Statistics \| 2022 <br> Certificate in Educational Sociology <br> [Aarhus University]{style="color:gray;"}
 
 -   MA in Education \| 2016 <br> [Aarhus University]{style="color:gray;"}
 
