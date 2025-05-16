@@ -48,7 +48,7 @@ I am a researcher working in the Department of Governance and Economics at [VIVE
 
 ## Education
 
--   PhD in Educational Statistics \| 2022 <br> Certificate in Educational Sociology <br> [Aarhus University]{style="color:gray;"}
+-   PhD in Educational Statistics \| 2022 <br> [Certificate in Educational Sociology]{style="color:gray;"} <br> [Aarhus University]{style="color:gray;"}
 
 -   MA in Education \| 2016 <br> [Aarhus University]{style="color:gray;"}
 

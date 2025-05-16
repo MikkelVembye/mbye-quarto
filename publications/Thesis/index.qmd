@@ -1,0 +1,26 @@
+---
+title: Methodological innovation in systematic reviewing and statistical meta-analysis in education and beyond
+author: 
+- name:
+    given: Mikkel H.
+    family: Vembye
+date: 2022-08-31T00:00:00
+categories:
+- meta-analysis
+- power analysis
+- dependent effect size
+- POMADE
+- R coding
+- co-teaching
+links:
+- icon: file-pdf-fill
+  text: PDF
+  url: /files/Vembye-2022-Thesis.pdf
+citation:
+  type: thesis
+  genre: Doctoral dissertation 
+  publisher: Aarhus University, Department of Educational Sociology
+---
+
+This thesis aims to conduct a state-of-the-art systematic review and contribute to the improvement of systematic reviewing and meta-analysis techniques in education and beyond. The thesis is composed of three articles that each makes methodological contributions to educational research as well as to systematic reviewing and statistical meta-analysis. The thesis has two overall aims. First, it seeks to remedy two frequently used and error-prone features of systematic reviews in education, i.e., the use of narrative synthesis of quantitative research literature and meta-analysis of studies contributing multiple effect sizes not sufficiently accounting for statistical dependencies among effect sizes coming from the same study. Among other things, the former issue has repeatedly been shown to produce conclusions driven by the preconceptions of the reviewers, while the latter prompts systematic reviews to yield too many false-positive results. To guard against these issues, the dissertation aims to provide a use case both for how to avoid narrative syntheses and tackle common reasons used to justify narrative synthesis and for how to adequately account for depend-ent effect sizes in meta-analysis. Second, it aims to expand the ballpark of statistical methods to handle dependent effect sizes by providing new power approximation formulas for the most com-mon models used to handle dependency among effect sizes. These are the correlated hierarchical effects (CE), the multi-level meta-analysis (MLMA), and correlated-hierarchical effects (CHE) models. These new statistical power analyses can, for example, be utilized at the planning stage of systematic reviews in order to investigate if a review will be able to detect the smallest effect size of practical concern with a given certainty.
+
