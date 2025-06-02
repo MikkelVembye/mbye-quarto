@@ -1,5 +1,5 @@
 ---
-title: 'GPT API models can function as highly reliable second screeners of titles and abstracts in systematic reviews: A proof of concept and common guidelines'
+title: 'Generative pre-trained transformer models can function as highly reliable second screeners of titles and abstracts in systematic reviews: A proof of concept and common guidelines'
 author:
 - name:
     given: Mikkel H.
