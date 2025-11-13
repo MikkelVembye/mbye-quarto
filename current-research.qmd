@@ -2,14 +2,12 @@
 title: "Current Research"
 ---
 
-I am currently working on five main projects:
+I am currently working on four main projects:
 
 1.  Maintaining and updating the [AIscreenR package](https://cran.r-project.org/web/packages/AIscreenR/index.html). We are currently working on adding new functions to ease the fine-tuning of models and making a report function that simplifies the user's ability to compare disagreements between humans and the model.
 
-2.  Finalizing the analyses and writing of a systematic review regarding the effects of group-based psychological interventions on marginalized adults with social and/or behavioral problems [(Dalgaard et al., 2022)](https://doi.org/10.1002/cl2.1254).
+2.  Finalizing the analyses and writing of a systematic review regarding the effects of interventions on the economic self-sufficiency of unemployed immigrants from non-Western countries [(Thuesen et al., 2020)](https://doi.org/https://doi.org/10.1002/cl2.1115).
 
-3.  Finalizing the analyses and writing of a systematic review regarding the effects of interventions on the economic self-sufficiency of unemployed immigrants from non-Western countries [(Thuesen et al., 2020)](https://doi.org/https://doi.org/10.1002/cl2.1115).
+3.  Finalizing the analyses and writing of a systematic review regarding the effects of testing frequency and student achievement [(Thomsen et al., 2022)](https://doi.org/10.1002/cl2.1212).
 
-4.  Finalizing the analyses and writing of a systematic review regarding the effects of testing frequency and student achievement [(Thomsen et al., 2022)](https://doi.org/10.1002/cl2.1212).
-
-5.  Investigating the longitudinal effects of developmental and educational RCTs. For more details see [https://osf.io/jh4e2/](https://osf.io/jh4e2/).
+4.  Investigating the longitudinal effects of developmental and educational RCTs. For more details see [https://osf.io/jh4e2/](https://osf.io/jh4e2/).

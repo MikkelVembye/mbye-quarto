@@ -10,6 +10,7 @@ title: "Contact"
 
 ```{r}
 #| echo: false
+#| warning: false
 library(leaflet)
 leaflet() |>
   addTiles() |>  # Add default OpenStreetMap map tiles

@@ -7,6 +7,9 @@ author:
 - name:
     given: Mikkel H.
     family: Vembye
+- name:
+    given: Thomas
+    family: Olsen
 categories:
 - systematic reviewing
 - title and abstract screening
@@ -24,8 +27,8 @@ citation:
   doi: 10.32614/CRAN.package.AIscreenR
   medium: R package
   note: R package
-  version: 0.1.1
-  issued: '2024-12-20T00:00:00Z'
+  version: 0.2.0
+  issued: '2025-10-20T00:00:00Z'
 ---
 
 An R package to conducting title and abstract screening with GPT API models. 

@@ -61,7 +61,9 @@ I am a researcher working in the Department of Governance and Public Economics a
 
 -   Meta-analysis
 -   Systematic reviewing 
--   AI for study screening 
+-   Fadeout of educational interventions effects
+-   Educational effectiveness
+-   AI integration in systematic reviews 
 -   R coding
 
 :::
