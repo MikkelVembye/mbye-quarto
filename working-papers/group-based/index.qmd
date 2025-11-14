@@ -1,9 +1,15 @@
 ---
-title: "PROTOCOL: Group‐based community interventions to support the social reintegration of marginalised adults with mental illness."
+title: "Group‐based community interventions to support the social reintegration of marginalized adults with mental illness: A systematic review and meta-analysis"
 author:
 - name:
     given: Nina T.
     family: Dalgaard
+- name:
+    given: Jakob K. 
+    family: Jensen
+- name:
+    given: Jasmin S. 
+    family: Adada
 - name:
     given: Maya C. F. 
     family: Jensen
@@ -11,15 +17,12 @@ author:
     given: Elizabeth
     family: Bengtsen
 - name:
-    given: Karl F. 
-    family: Krassel
-- name:
     given: Mikkel H.
     family: Vembye
-date: 2022-07-14T00:00:00
+date: 2025-11-13T00:00:00
 categories:
-- group-based intervention
-- marginalised adults
+- group-based interventions
+- marginalized adults
 - meta-analysis
 links:
 - text: Protocol
@@ -28,12 +31,18 @@ links:
 - icon: file-pdf-fill
   text: PDF
   url: /files/campbell-protocol-group-based-2022.pdf
+- icon: unlock-fill
+  text: Pre-Print
+  url: https://osf.io/preprints/psyarxiv/kpvam_v1
 citation:
   type: article-journal
   container-title: Campbell Systematic Reviews
   url: https://doi.org/10.1002/cl2.1254
   doi: 10.1002/cl2.1254
-  page: 1-23
 ---
 
-The main objective is to explore the general efficacy of group-based community interventions aimed at supporting marginalised adults with mental illness and related problems on outcomes such as problem behaviour, subjective well-being, homelessness, poverty and employment. Furthermore, the objective is to explore the potential advantages/disadvantages of using a group-based versus an individual intervention when targeting specific problems or when using specific types of interventions.
+This review includes studies that evaluate the effects of group-based interventions to support the social reintegration of marginalized adults who suffer from both mental illness and other problems when compared with an individually delivered intervention. A total of 62 studies were identified. 61 of these were assessed to be of sufficient methodological quality to be included in the data synthesis, but only 49 studies could be used in meta-analysis, as we could not compute effect sizes for 12 studies. The studies spanned the period from 2000 to 2022 and were carried out in the OECD countries. Most interventions lasted less than a year, and the effects of the interventions were all measured within the first year after the end of the interventions. The included studies were mostly randomized controlled trials (RCTs). Notably, close to half of the RCTs had been preregistered. All included studies had a well-defined control group. The 49 studies included in the meta-analyses included 349 effect sizes and involved participants with various mental illnesses and indicators of social marginalization. Schizophrenia and other psychotic disorders were the most common mental health conditions (36 studies), while substance use was the most frequently reported co-occurring issue (13 studies). Most participants faced multiple challenges related to social exclusion. The interventions varied but were most commonly group-based Cognitive Behavioral Therapy (11 studies). 
+
+Across a range of meta-regression analyses, the majority of analyses showed overall positive effects of group-based interventions, regardless of the type of measurement, though not all individual results were statistically significant. The two main analyses regarding the overall average effect size, one examining social reintegration outcomes and the other focusing on mental health outcomes, both showed statistically significant benefits of group-based interventions. The random effects weighted standardized mean difference for short-term outcomes was 0.195 standard deviation (SD), 95% CI[0.122, 0.268] for the meta-analysis using all social reintegration outcomes, and the random effects weighted standardized mean difference was 0.215 SD, 95% CI[0.090, 0.340] for the meta-analysis using all mental health outcomes. This corresponds to treatment effects that are approximately 2.3 and 1.4 times greater than the typical improvements observed with usual care in reintegration and mental health outcomes, respectively.
+
+A unique characteristic of this body of literature is that close to half of the studies represent preregistered studies. When analyzing this group of studies only, we still found a substantial and statistically significant effect of group-based intervention when compared to no or usual individual treatments. Overall, the findings were robust across all sensitivity and publication bias analyses, further increasing confidence in the evidence base.
