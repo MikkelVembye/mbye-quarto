@@ -8,6 +8,6 @@ I am currently working on four main projects:
 
 2.  Finalizing the analyses and writing of a systematic review regarding the effects of interventions on the economic self-sufficiency of unemployed immigrants from non-Western countries [(Thuesen et al., 2020)](https://doi.org/https://doi.org/10.1002/cl2.1115).
 
-3.  Finalizing the analyses and writing of a systematic review regarding the effects of testing frequency and student achievement [(Thomsen et al., 2022)](https://doi.org/10.1002/cl2.1212).
+3.  Investigating the effects of extended school days on student achievement, well-being, and behavioral outcomes
 
 4.  Investigating the longitudinal effects of developmental and educational RCTs. For more details see [https://osf.io/jh4e2/](https://osf.io/jh4e2/).
