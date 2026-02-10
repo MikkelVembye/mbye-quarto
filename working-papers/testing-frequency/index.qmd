@@ -1,0 +1,49 @@
+---
+title: "Testing frequency and student achievement: A systematic review"
+author:
+- name:
+    given: Jens
+    family: Dietrichson
+- name:
+    given: Julie K. 
+    family: Seerup
+- name:
+    given: Anja B. 
+    family: Mølgaard
+- name:
+    given: Malene W. 
+    family: Kildemoes
+- name:
+    given: Frederikke L. W. 
+    family: Schytt
+- name:
+    given: Mikkel H.
+    family: Vembye
+- name:
+    given: Elizabeth
+    family: Bengtsen
+- name:
+    given: Bjørn C. A. 
+    family: Viinholt
+- name:
+    given: Morten K.
+    family: Thomsen
+date: 2026-01-28T00:00:00
+categories:
+- testing frequency
+- meta-analysis
+links:
+- text: Protocol
+  url: https://doi.org/10.1002/cl2.1212
+  icon: paperclip
+- icon: file-pdf-fill
+  text: PDF
+  url: /files/tf-protocol.pdf
+citation:
+  type: article-journal
+  container-title: Campbell Systematic Reviews
+  url: https://doi.org/10.1002/cl2.1212
+  doi: 10.1002/cl2.1212
+---
+
+This Campbell systematic review examines the effects of interventions that change how frequent-ly students are tested on the achievement of primary and secondary school students, and on measures of testing-related anxiety. The review summarizes evidence from 87 studies, 59 of which were included in meta-analyses. 
