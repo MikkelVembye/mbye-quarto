@@ -25,15 +25,15 @@ categories:
 - marginalized adults
 - meta-analysis
 links:
+- icon: unlock-fill
+  text: Pre-Print
+  url: https://osf.io/preprints/psyarxiv/kpvam_v1
 - text: Protocol
   url: https://doi.org/10.1002/cl2.1254
   icon: paperclip
 - icon: file-pdf-fill
   text: PDF
   url: /files/campbell-protocol-group-based-2022.pdf
-- icon: unlock-fill
-  text: Pre-Print
-  url: https://osf.io/preprints/psyarxiv/kpvam_v1
 citation:
   type: article-journal
   container-title: Campbell Systematic Reviews

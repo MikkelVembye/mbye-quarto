@@ -13,18 +13,26 @@ author:
 - name:
     given: Mikkel H.
     family: Vembye
-date: 2026-01-21T00:00:00
+date: 2026-01-31T00:00:00
 categories:
 - fadeout mechanisms
 - school interventions
 - meta-analysis
 links:
+- icon: newspaper
+  text: Journal
+  url: https://doi.org/10.1037/bul0000516
+- icon: unlock-fill
+  text: Pre-Print
+  url: https://osf.io/preprints/psyarxiv/2eg67_v1/
 - icon: code-slash
   text: Code
   url: https://osf.io/j6n5z/
 citation:
   type: article-journal
   container-title: Psychological Bulletin
+  url: https://doi.org/10.1037/bul0000516
+  doi: 10.1037/bul0000516
 ---
 
 The effects of preschool and school interventions typically fade out over time. To assess the implications of such fade-out for returns to interventions and for skill development theories, it is essential to know the mechanisms underlying fade-out. In this study, we reviewed and categorized potential fade-out mechanisms and developed testable hypotheses about the distribution of intervention effect sizes. We then evaluated the hypotheses using meta-analysis and data from 42 studies and 677 effect sizes examining the effects of school interventions targeting at-risk students on standardized tests in mathematics and reading. Our findings show that mechanisms linked to challenges of measuring and estimating effect sizes explain only a small part of fade-out. Fade-out appears to be a genuine phenomenon reflecting real changes in the skills of the intervention participants. Among skill-based mechanisms, we found evidence against the treatment group forgetting the skills they acquired in the intervention. We found the most support for mechanisms predicting that the treatment group’s skills would grow, but more slowly than those of the control group after the intervention. The two most plausible mechanisms explain the slower growth by the treatment group’s inability to build on the skills acquired during the intervention, and by negative side effects on parental and school investments for the treatment group. Because these mechanisms have different implications for the returns to interventions and for theories of skill development, future research should aim to distinguish their contributions to fade-out. We conclude by discussing study designs that can achieve this goal. 
