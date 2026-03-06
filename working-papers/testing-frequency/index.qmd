@@ -33,6 +33,9 @@ categories:
 - testing frequency
 - meta-analysis
 links:
+- icon: unlock-fill
+  text: Pre-Print
+  url: https://doi.org/10.26300/jas3-2b83 
 - text: Protocol
   url: https://doi.org/10.1002/cl2.1212
   icon: paperclip
@@ -46,4 +49,4 @@ citation:
   doi: 10.1002/cl2.1212
 ---
 
-This Campbell systematic review examines the effects of interventions that change how frequent-ly students are tested on the achievement of primary and secondary school students, and on measures of testing-related anxiety. The review summarizes evidence from 87 studies, 59 of which were included in meta-analyses. 
+School-based testing is widely used for monitoring students’ academic progress. Proponents argue that testing ensures accountability and guides teachers and managers, whereas opponents point to adverse consequences such as teaching to the test, and frequent testing creating anxiety and stress. This review examined the effects of interventions that change how frequently primary and secondary students are tested on measures of student achievement and testing anxiety. The search resulted in 102,451 potentially relevant records. Ninety-three records, nested in 87 studies, met the inclusion criteria, and we included 59 studies in the data synthesis. We found only one study that reported effects on testing anxiety. Almost all interventions involved practice tests that were low-stakes and had a formative purpose. We found statistically significant weighted average effect sizes on academic achievement in interventions where the control group did not receive any practice test: 0.22 (95% CI = [0.09, 0.34]) for between-subject designs and 0.46 (95% CI = [0.29, 0.62]) for within-subject designs. When the control group was also tested, the estimates were consistently positive but not always statistically significant, and sometimes indicated effects that diminished as the control group testing frequency increased. There was substantial heterogeneity in all meta-analyses. In exploratory analyses, practice tests seemed less effective when the learning material was complex, and when the alternative pedagogical method involved more active forms of learning, but more research is needed to pin down the contexts in which testing may not be beneficial for student achievement.  
