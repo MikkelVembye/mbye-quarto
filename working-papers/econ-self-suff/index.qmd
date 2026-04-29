@@ -1,0 +1,43 @@
+---
+title: "Interventions to Improve the Economic Self-Sufficiency of Unemployed Immigrants from Non-Western Countries"
+author:
+- name:
+    given: Frederik 
+    family: Thuesen
+- name:
+    given: Vibeke
+    family: Jakobsen
+- name:
+    given: Bjørn C. A. 
+    family: Viinholt
+- name:
+    given: Elizabeth
+    family: Bengtsen
+- name:
+    given: Mikkel H.
+    family: Vembye
+date: 2026-04-29T00:00:00
+categories:
+- Economics
+- Labor market
+- Immigrants 
+- Refugees
+- Meta-analysis
+links:
+- icon: unlock-fill
+  text: Pre-Print
+  url: http://dx.doi.org/10.2139/ssrn.6674518 
+- text: Protocol
+  url: https://doi.org/10.1002/cl2.1115
+  icon: paperclip
+- icon: file-pdf-fill
+  text: PDF
+  url: /files/econ-protocol.pdf
+citation:
+  type: article-journal
+  container-title: Campbell Systematic Reviews
+  url: https://doi.org/10.1002/cl2.1115
+  doi: 10.1002/cl2.1115
+---
+
+This paper presents a systematic review and meta-analysis of interventions aimed at improving the economic self-sufficiency of unemployed immigrants from non-Western countries. Drawing on 44 studies identified through comprehensive searches of academic and grey literature, the analysis focuses on causal evidence from 30 studies and 321 effects included in the meta-analysis, covering a range of active labour market programs (ALMPs), migrant-specific interventions, and combination programs. The results indicate that such interventions have a statistically significant, though modest, positive effect on employment outcomes, increasing the probability of employment by approximately 2.4 percentage points. In contrast, effects on earnings are substantial, with treated individuals experiencing an average increase of around 50 percent relative to control groups. Evidence on hazard rates to employment suggests faster transitions into jobs for participants, although the estimate is less precise. Subgroup analyses reveal important gender differences across time: employment effects materialize more rapidly for men, while women experience delayed but larger increasing gains over time. Tests for publication bias and small-study effects do not indicate that such biases materially affect the overall conclusions. Overall, the findings suggest that while integration programs contribute positively to labour market outcomes, their employment effects are limited in magnitude and unfold gradually, particularly for women. Hence, policymakers should not expect quick returns on investments in this field.  
