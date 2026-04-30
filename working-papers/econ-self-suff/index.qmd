@@ -1,5 +1,5 @@
 ---
-title: "Interventions to Improve the Economic Self-Sufficiency of Unemployed Immigrants from Non-Western Countries"
+title: "The Effects of Interventions to Improve the Economic Self-Sufficiency of Unemployed Immigrants from Non-Western Countries: A Systematic Review and Meta-Analysis"
 author:
 - name:
     given: Frederik 
