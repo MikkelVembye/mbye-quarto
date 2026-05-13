@@ -1,5 +1,5 @@
 ---
-title: "Group‐based community interventions to support the social reintegration of marginalized adults with mental illness: A systematic review and meta-analysis"
+title: "Group-Based Community Interventions for Social Reintegration of Marginalized Adults with Mental Illness: A Systematic Review and Meta-Analysis"
 author:
 - name:
     given: Nina T.
@@ -19,10 +19,12 @@ author:
 - name:
     given: Mikkel H.
     family: Vembye
-date: 2025-11-13T00:00:00
+date: 2026-05-12T00:00:00
 categories:
 - group-based interventions
-- marginalized adults
+- marginalized adults 
+- mental illness
+- social reintegration
 - meta-analysis
 links:
 - icon: unlock-fill
@@ -36,13 +38,8 @@ links:
   url: /files/campbell-protocol-group-based-2022.pdf
 citation:
   type: article-journal
-  container-title: Campbell Systematic Reviews
-  url: https://doi.org/10.1002/cl2.1254
-  doi: 10.1002/cl2.1254
+  container-title: Open Science Framework
+  url: https://osf.io/preprints/psyarxiv/kpvam_v1
 ---
 
-This review includes studies that evaluate the effects of group-based interventions to support the social reintegration of marginalized adults who suffer from both mental illness and other problems when compared with an individually delivered intervention. A total of 62 studies were identified. 61 of these were assessed to be of sufficient methodological quality to be included in the data synthesis, but only 49 studies could be used in meta-analysis, as we could not compute effect sizes for 12 studies. The studies spanned the period from 2000 to 2022 and were carried out in the OECD countries. Most interventions lasted less than a year, and the effects of the interventions were all measured within the first year after the end of the interventions. The included studies were mostly randomized controlled trials (RCTs). Notably, close to half of the RCTs had been preregistered. All included studies had a well-defined control group. The 49 studies included in the meta-analyses included 349 effect sizes and involved participants with various mental illnesses and indicators of social marginalization. Schizophrenia and other psychotic disorders were the most common mental health conditions (36 studies), while substance use was the most frequently reported co-occurring issue (13 studies). Most participants faced multiple challenges related to social exclusion. The interventions varied but were most commonly group-based Cognitive Behavioral Therapy (11 studies). 
-
-Across a range of meta-regression analyses, the majority of analyses showed overall positive effects of group-based interventions, regardless of the type of measurement, though not all individual results were statistically significant. The two main analyses regarding the overall average effect size, one examining social reintegration outcomes and the other focusing on mental health outcomes, both showed statistically significant benefits of group-based interventions. The random effects weighted standardized mean difference for short-term outcomes was 0.195 standard deviation (SD), 95% CI[0.122, 0.268] for the meta-analysis using all social reintegration outcomes, and the random effects weighted standardized mean difference was 0.215 SD, 95% CI[0.090, 0.340] for the meta-analysis using all mental health outcomes. This corresponds to treatment effects that are approximately 2.3 and 1.4 times greater than the typical improvements observed with usual care in reintegration and mental health outcomes, respectively.
-
-A unique characteristic of this body of literature is that close to half of the studies represent preregistered studies. When analyzing this group of studies only, we still found a substantial and statistically significant effect of group-based intervention when compared to no or usual individual treatments. Overall, the findings were robust across all sensitivity and publication bias analyses, further increasing confidence in the evidence base.
+This paper presents a preregistered systematic review and meta-analysis of the effects of group-based community interventions for socially marginalized adults with mental illness in OECD countries. Extensive literature searches identified 28,980 records from which 49 studies (349 effect sizes) contributed to the meta-analysis. Outcomes were categorized as social reintegration, including social functioning, loneliness, employment, and quality of life, or mental health, including anxiety, depression, and psychotic symptoms. Sophisticated multivariate meta-analysis showed that group-based interventions improved both social reintegration (g = 0.195, 95% CI[0.122-0.268]) and mental health (g = 0.215, 95% CI[0.090-0.340]) relative to control conditions. Effects were generally invariant across sensitivity and moderator analyses, and showed little indication of publication bias. Nearly half of the included studies were preregistered, strengthening confidence in the evidence. Overall, these findings suggest that group-based interventions can support multidimensional recovery among adults experiencing both mental and social problems, while offering cost-effective alternatives to individual care. 
