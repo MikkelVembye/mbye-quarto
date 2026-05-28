@@ -33,6 +33,9 @@ links:
 - icon: file-pdf-fill
   text: PDF
   url: /files/econ-protocol.pdf
+- icon: code-slash
+  text: Code
+  url: https://osf.io/rnkdg/files/osfstorage
 citation:
   type: article-journal
   container-title: Campbell Systematic Reviews
