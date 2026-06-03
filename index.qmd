@@ -25,7 +25,7 @@ about:
       
 listing:
   - id: recent-publications
-    contents: publications
+    contents: "publications/*/index.qmd"
     sort: "date desc"
     type: default
     categories: false
